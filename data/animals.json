@@ -108,6 +108,46 @@
         "loving"
       ],
       "id": "10"
+    },
+    {
+      "name": "Koko",
+      "species": "Gorilla",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious",
+        "loving"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Testhor",
+      "species": "Asguardian",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Bart",
+      "species": "Elephant",
+      "diet": "folivore",
+      "personalityTraits": [
+        "zany",
+        "goofy"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Warwick",
+      "species": "Elephant",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "14"
     }
   ]
 }
